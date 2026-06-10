@@ -1,0 +1,1505 @@
+[
+  {
+    "id": "physio-einleitung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Physiotherapeut:in mit einem Pensum von [Pensum] in unserer Praxis tätig. Wir freuen uns, [Name] mit diesem Zeugnis zu würdigen."
+  },
+  {
+    "id": "physio-einleitung-gut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Physiotherapeut:in mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "physio-einleitung-solide",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Physiotherapeut:in mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "physio-einleitung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Physiotherapeut:in mit einem Pensum von [Pensum] in unserer Praxis beschäftigt."
+  },
+  {
+    "id": "physio-aufgaben-sehrgut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 2,
+    "text": "[Name] betreute Patient:innen eigenverantwortlich im Rahmen physiotherapeutischer Einzel- und Gruppenbehandlungen, erstellte differenzierte Therapiepläne, führte Befunderhebungen und Verlaufskontrollen durch, dokumentierte Behandlungsverläufe sorgfältig und arbeitete eng mit Ärzt:innen, Osteopath:innen und weiteren Fachpersonen zusammen. Zudem übernahm [Name] die Betreuung von Sportverletzungen sowie die Durchführung lymphologischer Behandlungen."
+  },
+  {
+    "id": "physio-aufgaben-gut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 2,
+    "text": "[Name] betreute Patient:innen im Rahmen physiotherapeutischer Behandlungen, erstellte Therapiepläne, dokumentierte Behandlungsverläufe und arbeitete eng mit Ärzt:innen, Kolleg:innen und weiteren Fachpersonen zusammen."
+  },
+  {
+    "id": "physio-aufgaben-solide",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 2,
+    "text": "[Name] führte physiotherapeutische Behandlungen durch, dokumentierte die Behandlungsverläufe und erledigte die anfallenden administrativen Aufgaben im Praxisalltag."
+  },
+  {
+    "id": "physio-aufgaben-ausreichend",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 2,
+    "text": "[Name] führte physiotherapeutische Behandlungen gemäss Auftrag durch und erledigte die übertragenen Dokumentations- und Administrationsaufgaben."
+  },
+  {
+    "id": "physio-fachkompetenz-sehrgut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein sehr fundiertes Fachwissen in der Physiotherapie – insbesondere in der Befunderhebung, manuellen Therapie und Trainingstherapie – und setzte dieses jederzeit sicher, differenziert und evidenzbasiert ein. [Name] pflegte sein/ihr Fachwissen kontinuierlich durch Fortbildungen."
+  },
+  {
+    "id": "physio-fachkompetenz-gut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein gutes Fachwissen und setzte dieses sicher und patientenorientiert ein."
+  },
+  {
+    "id": "physio-fachkompetenz-solide",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein solides Fachwissen und setzte dieses im Praxisalltag zweckmässig ein."
+  },
+  {
+    "id": "physio-fachkompetenz-ausreichend",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über die erforderlichen Fachkenntnisse und setzte diese im Rahmen der übertragenen Aufgaben ein."
+  },
+  {
+    "id": "physio-leistung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte jederzeit eine sehr hohe Einsatzbereitschaft, arbeitete engagiert und übernahm Verantwortung auch in anspruchsvollen und zeitkritischen Situationen."
+  },
+  {
+    "id": "physio-leistung-gut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine hohe Einsatzbereitschaft, arbeitete engagiert und erledigte die übertragenen Aufgaben zuverlässig."
+  },
+  {
+    "id": "physio-leistung-solide",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine angemessene Einsatzbereitschaft und erledigte die übertragenen Aufgaben im vereinbarten Rahmen."
+  },
+  {
+    "id": "physio-leistung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte die notwendige Einsatzbereitschaft und erledigte die übertragenen Aufgaben entsprechend den Erwartungen."
+  },
+  {
+    "id": "physio-qualitaet-sehrgut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war stets sehr sorgfältig, strukturiert und qualitativ überzeugend. Die Behandlungsergebnisse und Dokumentationen waren jederzeit sehr zuverlässig."
+  },
+  {
+    "id": "physio-qualitaet-gut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war sorgfältig, strukturiert und qualitativ gut. Die Behandlungsergebnisse und Dokumentationen waren zuverlässig."
+  },
+  {
+    "id": "physio-qualitaet-solide",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war ordentlich und zweckmässig. Die Behandlungsergebnisse und Dokumentationen entsprachen den Anforderungen."
+  },
+  {
+    "id": "physio-qualitaet-ausreichend",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] entsprach insgesamt den grundlegenden Anforderungen der Funktion."
+  },
+  {
+    "id": "physio-selbst-sehrgut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete jederzeit sehr selbstständig, vorausschauend und lösungsorientiert."
+  },
+  {
+    "id": "physio-selbst-gut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete selbstständig, zuverlässig und lösungsorientiert."
+  },
+  {
+    "id": "physio-selbst-solide",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete weitgehend selbstständig und erledigte Aufgaben mit angemessener Sorgfalt."
+  },
+  {
+    "id": "physio-selbst-ausreichend",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 6,
+    "text": "[Name] erledigte die übertragenen Aufgaben nach entsprechender Anleitung und Rücksprache."
+  },
+  {
+    "id": "physio-patienten-sehrgut",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war jederzeit sehr empathisch, professionell und vertrauensbildend."
+  },
+  {
+    "id": "physio-patienten-gut",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war professionell, freundlich und vertrauensvoll."
+  },
+  {
+    "id": "physio-patienten-solide",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war freundlich und korrekt."
+  },
+  {
+    "id": "physio-patienten-ausreichend",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war im Allgemeinen korrekt."
+  },
+  {
+    "id": "physio-team-sehrgut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war jederzeit vorbildlich und von hoher Wertschätzung geprägt."
+  },
+  {
+    "id": "physio-team-gut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war jederzeit einwandfrei und wertschätzend."
+  },
+  {
+    "id": "physio-team-solide",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war korrekt und kollegial."
+  },
+  {
+    "id": "physio-team-ausreichend",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war insgesamt korrekt."
+  },
+  {
+    "id": "physio-zuverlaessig-sehrgut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 9,
+    "text": "[Name] war jederzeit äusserst zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "physio-zuverlaessig-gut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 9,
+    "text": "[Name] war zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "physio-zuverlaessig-solide",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 9,
+    "text": "[Name] war grundsätzlich zuverlässig und erfüllte die vereinbarten Aufgaben."
+  },
+  {
+    "id": "physio-zuverlaessig-ausreichend",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 9,
+    "text": "[Name] erfüllte die grundlegenden Anforderungen an Zuverlässigkeit und Verbindlichkeit."
+  },
+  {
+    "id": "physio-schluss-sehrgut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Sehr gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die stets sehr wertvolle Zusammenarbeit und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "physio-schluss-gut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Gut",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die gute Zusammenarbeit und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "physio-schluss-solide",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Solide",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die Zusammenarbeit und wünschen für die berufliche und private Zukunft alles Gute."
+  },
+  {
+    "id": "physio-schluss-ausreichend",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Ausreichend",
+    "funktion": "Physiotherapeut:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die geleistete Arbeit und wünschen für die Zukunft alles Gute."
+  },
+  {
+    "id": "osteo-einleitung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Osteopath:in mit einem Pensum von [Pensum] in unserer Praxis tätig. Wir freuen uns, [Name] mit diesem Zeugnis zu würdigen."
+  },
+  {
+    "id": "osteo-einleitung-gut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Osteopath:in mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "osteo-einleitung-solide",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Osteopath:in mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "osteo-einleitung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Osteopath:in mit einem Pensum von [Pensum] in unserer Praxis beschäftigt."
+  },
+  {
+    "id": "osteo-aufgaben-sehrgut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 2,
+    "text": "[Name] führte eigenverantwortlich osteopathische Erstbefundungen sowie strukturelle, viszerale und craniosakrale Behandlungen durch. [Name] begleitete Patient:innen in einem umfassend ganzheitlichen Ansatz, dokumentierte Behandlungsverläufe präzise und arbeitete eng mit dem interdisziplinären Praxisteam zusammen."
+  },
+  {
+    "id": "osteo-aufgaben-gut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 2,
+    "text": "[Name] betreute Patient:innen im Rahmen osteopathischer Behandlungen, erstellte Behandlungspläne, dokumentierte Behandlungsverläufe und arbeitete eng mit dem Praxisteam und weiteren Fachpersonen zusammen."
+  },
+  {
+    "id": "osteo-aufgaben-solide",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 2,
+    "text": "[Name] führte osteopathische Behandlungen durch, dokumentierte die Behandlungsverläufe und erledigte die anfallenden administrativen Aufgaben im Praxisalltag."
+  },
+  {
+    "id": "osteo-aufgaben-ausreichend",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 2,
+    "text": "[Name] führte osteopathische Behandlungen gemäss Auftrag durch und erledigte die übertragenen Dokumentations- und Administrationsaufgaben."
+  },
+  {
+    "id": "osteo-fachkompetenz-sehrgut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein sehr fundiertes osteopathisches Fachwissen, das strukturelle, viszerale und craniosakrale Techniken umfasste. Dieses Wissen setzte [Name] jederzeit sicher, differenziert und ganzheitlich orientiert im Sinne der Patient:innen ein."
+  },
+  {
+    "id": "osteo-fachkompetenz-gut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein gutes osteopathisches Fachwissen und setzte dieses sicher und patientenorientiert ein."
+  },
+  {
+    "id": "osteo-fachkompetenz-solide",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein solides osteopathisches Fachwissen und setzte dieses im Praxisalltag zweckmässig ein."
+  },
+  {
+    "id": "osteo-fachkompetenz-ausreichend",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über die erforderlichen Fachkenntnisse in der Osteopathie und setzte diese im Rahmen der übertragenen Aufgaben ein."
+  },
+  {
+    "id": "osteo-leistung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte jederzeit eine sehr hohe Einsatzbereitschaft, arbeitete engagiert und übernahm Verantwortung auch in anspruchsvollen und zeitkritischen Situationen."
+  },
+  {
+    "id": "osteo-leistung-gut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine hohe Einsatzbereitschaft, arbeitete engagiert und erledigte die übertragenen Aufgaben zuverlässig."
+  },
+  {
+    "id": "osteo-leistung-solide",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine angemessene Einsatzbereitschaft und erledigte die übertragenen Aufgaben im vereinbarten Rahmen."
+  },
+  {
+    "id": "osteo-leistung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte die notwendige Einsatzbereitschaft und erledigte die übertragenen Aufgaben entsprechend den Erwartungen."
+  },
+  {
+    "id": "osteo-qualitaet-sehrgut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war stets sehr sorgfältig, strukturiert und qualitativ überzeugend. Die Behandlungsergebnisse und Dokumentationen waren jederzeit sehr zuverlässig."
+  },
+  {
+    "id": "osteo-qualitaet-gut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war sorgfältig, strukturiert und qualitativ gut. Die Behandlungsergebnisse und Dokumentationen waren zuverlässig."
+  },
+  {
+    "id": "osteo-qualitaet-solide",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war ordentlich und zweckmässig. Die Behandlungsergebnisse und Dokumentationen entsprachen den Anforderungen."
+  },
+  {
+    "id": "osteo-qualitaet-ausreichend",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] entsprach insgesamt den grundlegenden Anforderungen der Funktion."
+  },
+  {
+    "id": "osteo-selbst-sehrgut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete jederzeit sehr selbstständig, vorausschauend und lösungsorientiert."
+  },
+  {
+    "id": "osteo-selbst-gut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete selbstständig, zuverlässig und lösungsorientiert."
+  },
+  {
+    "id": "osteo-selbst-solide",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete weitgehend selbstständig und erledigte Aufgaben mit angemessener Sorgfalt."
+  },
+  {
+    "id": "osteo-selbst-ausreichend",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 6,
+    "text": "[Name] erledigte die übertragenen Aufgaben nach entsprechender Anleitung und Rücksprache."
+  },
+  {
+    "id": "osteo-patienten-sehrgut",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war jederzeit sehr empathisch, professionell und vertrauensbildend. [Name] schuf durch seine/ihre ruhige und zugewandte Art eine therapeutische Atmosphäre, die die Selbstheilungskräfte der Patient:innen aktiv unterstützte."
+  },
+  {
+    "id": "osteo-patienten-gut",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war professionell, freundlich und vertrauensvoll."
+  },
+  {
+    "id": "osteo-patienten-solide",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war freundlich und korrekt."
+  },
+  {
+    "id": "osteo-patienten-ausreichend",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war im Allgemeinen korrekt."
+  },
+  {
+    "id": "osteo-team-sehrgut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war jederzeit vorbildlich und von hoher Wertschätzung geprägt."
+  },
+  {
+    "id": "osteo-team-gut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war jederzeit einwandfrei und wertschätzend."
+  },
+  {
+    "id": "osteo-team-solide",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war korrekt und kollegial."
+  },
+  {
+    "id": "osteo-team-ausreichend",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war insgesamt korrekt."
+  },
+  {
+    "id": "osteo-zuverlaessig-sehrgut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 9,
+    "text": "[Name] war jederzeit äusserst zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "osteo-zuverlaessig-gut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 9,
+    "text": "[Name] war zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "osteo-zuverlaessig-solide",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 9,
+    "text": "[Name] war grundsätzlich zuverlässig und erfüllte die vereinbarten Aufgaben."
+  },
+  {
+    "id": "osteo-zuverlaessig-ausreichend",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 9,
+    "text": "[Name] erfüllte die grundlegenden Anforderungen an Zuverlässigkeit und Verbindlichkeit."
+  },
+  {
+    "id": "osteo-schluss-sehrgut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Sehr gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die stets sehr wertvolle Zusammenarbeit und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "osteo-schluss-gut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Gut",
+    "funktion": "Osteopath:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die gute Zusammenarbeit und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "osteo-schluss-solide",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Solide",
+    "funktion": "Osteopath:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die Zusammenarbeit und wünschen für die berufliche und private Zukunft alles Gute."
+  },
+  {
+    "id": "osteo-schluss-ausreichend",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Ausreichend",
+    "funktion": "Osteopath:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die geleistete Arbeit und wünschen für die Zukunft alles Gute."
+  },
+  {
+    "id": "mass-einleitung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als medizinische/r Masseur:in mit einem Pensum von [Pensum] in unserer Praxis tätig. Wir freuen uns, [Name] mit diesem Zeugnis zu würdigen."
+  },
+  {
+    "id": "mass-einleitung-gut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als medizinische/r Masseur:in mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "mass-einleitung-solide",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Masseur:in mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "mass-einleitung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als Masseur:in mit einem Pensum von [Pensum] in unserer Praxis beschäftigt."
+  },
+  {
+    "id": "mass-aufgaben-sehrgut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 2,
+    "text": "[Name] führte eigenverantwortlich medizinisch-therapeutische Massagen durch, darunter klassische Massage, Triggerpunkttherapie und Lymphdrainage. [Name] führte Erstbefundungen durch, erstellte individuelle Behandlungskonzepte, dokumentierte Behandlungsverläufe präzise und unterstützte einen reibungslosen Praxisablauf."
+  },
+  {
+    "id": "mass-aufgaben-gut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 2,
+    "text": "[Name] betreute Patient:innen im Rahmen medizinisch-therapeutischer Massagebehandlungen, dokumentierte Behandlungsverläufe und arbeitete eng mit dem Praxisteam zusammen."
+  },
+  {
+    "id": "mass-aufgaben-solide",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 2,
+    "text": "[Name] führte Massagebehandlungen durch, dokumentierte die Behandlungsverläufe und erledigte die anfallenden administrativen Aufgaben im Praxisalltag."
+  },
+  {
+    "id": "mass-aufgaben-ausreichend",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 2,
+    "text": "[Name] führte Massagebehandlungen gemäss Auftrag durch und erledigte die übertragenen Dokumentations- und Administrationsaufgaben."
+  },
+  {
+    "id": "mass-fachkompetenz-sehrgut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein sehr fundiertes Fachwissen in der medizinischen Massage, das verschiedene Techniken (klassische Massage, Triggerpunkt, Sportmassage, Lymphdrainage) umfasste, und setzte dieses jederzeit sicher, differenziert und patientenorientiert ein."
+  },
+  {
+    "id": "mass-fachkompetenz-gut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein gutes Fachwissen in der medizinischen Massage und setzte dieses sicher und patientenorientiert ein."
+  },
+  {
+    "id": "mass-fachkompetenz-solide",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über ein solides Fachwissen in der Massage und setzte dieses im Praxisalltag zweckmässig ein."
+  },
+  {
+    "id": "mass-fachkompetenz-ausreichend",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 3,
+    "text": "[Name] verfügte über die erforderlichen Fachkenntnisse und setzte diese im Rahmen der übertragenen Aufgaben ein."
+  },
+  {
+    "id": "mass-leistung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte jederzeit eine sehr hohe Einsatzbereitschaft, arbeitete engagiert und übernahm Verantwortung auch in anspruchsvollen und zeitkritischen Situationen."
+  },
+  {
+    "id": "mass-leistung-gut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine hohe Einsatzbereitschaft, arbeitete engagiert und erledigte die übertragenen Aufgaben zuverlässig."
+  },
+  {
+    "id": "mass-leistung-solide",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine angemessene Einsatzbereitschaft und erledigte die übertragenen Aufgaben im vereinbarten Rahmen."
+  },
+  {
+    "id": "mass-leistung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 4,
+    "text": "[Name] zeigte die notwendige Einsatzbereitschaft und erledigte die übertragenen Aufgaben entsprechend den Erwartungen."
+  },
+  {
+    "id": "mass-qualitaet-sehrgut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war stets sehr sorgfältig, strukturiert und qualitativ überzeugend. Die Behandlungsergebnisse und Dokumentationen waren jederzeit sehr zuverlässig."
+  },
+  {
+    "id": "mass-qualitaet-gut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war sorgfältig, strukturiert und qualitativ gut. Die Behandlungsergebnisse und Dokumentationen waren zuverlässig."
+  },
+  {
+    "id": "mass-qualitaet-solide",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war ordentlich und zweckmässig. Die Behandlungsergebnisse und Dokumentationen entsprachen den Anforderungen."
+  },
+  {
+    "id": "mass-qualitaet-ausreichend",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] entsprach insgesamt den grundlegenden Anforderungen der Funktion."
+  },
+  {
+    "id": "mass-selbst-sehrgut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete jederzeit sehr selbstständig, vorausschauend und lösungsorientiert."
+  },
+  {
+    "id": "mass-selbst-gut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete selbstständig, zuverlässig und lösungsorientiert."
+  },
+  {
+    "id": "mass-selbst-solide",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 6,
+    "text": "[Name] arbeitete weitgehend selbstständig und erledigte Aufgaben mit angemessener Sorgfalt."
+  },
+  {
+    "id": "mass-selbst-ausreichend",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 6,
+    "text": "[Name] erledigte die übertragenen Aufgaben nach entsprechender Anleitung und Rücksprache."
+  },
+  {
+    "id": "mass-patienten-sehrgut",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war jederzeit sehr empathisch, professionell und vertrauensbildend."
+  },
+  {
+    "id": "mass-patienten-gut",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war professionell, freundlich und vertrauensvoll."
+  },
+  {
+    "id": "mass-patienten-solide",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war freundlich und korrekt."
+  },
+  {
+    "id": "mass-patienten-ausreichend",
+    "aktiv": true,
+    "kategorie": "Patientenumgang",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 7,
+    "text": "Der Umgang von [Name] mit Patient:innen war im Allgemeinen korrekt."
+  },
+  {
+    "id": "mass-team-sehrgut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war jederzeit vorbildlich und von hoher Wertschätzung geprägt."
+  },
+  {
+    "id": "mass-team-gut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war jederzeit einwandfrei und wertschätzend."
+  },
+  {
+    "id": "mass-team-solide",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war korrekt und kollegial."
+  },
+  {
+    "id": "mass-team-ausreichend",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war insgesamt korrekt."
+  },
+  {
+    "id": "mass-zuverlaessig-sehrgut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 9,
+    "text": "[Name] war jederzeit äusserst zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "mass-zuverlaessig-gut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 9,
+    "text": "[Name] war zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "mass-zuverlaessig-solide",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 9,
+    "text": "[Name] war grundsätzlich zuverlässig und erfüllte die vereinbarten Aufgaben."
+  },
+  {
+    "id": "mass-zuverlaessig-ausreichend",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 9,
+    "text": "[Name] erfüllte die grundlegenden Anforderungen an Zuverlässigkeit und Verbindlichkeit."
+  },
+  {
+    "id": "mass-schluss-sehrgut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Sehr gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die stets sehr wertvolle Zusammenarbeit und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "mass-schluss-gut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Gut",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die gute Zusammenarbeit und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "mass-schluss-solide",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Solide",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die Zusammenarbeit und wünschen für die berufliche und private Zukunft alles Gute."
+  },
+  {
+    "id": "mass-schluss-ausreichend",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Ausreichend",
+    "funktion": "Masseur:in / Med. Masseur:in",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die geleistete Arbeit und wünschen für die Zukunft alles Gute."
+  },
+  {
+    "id": "sekr-einleitung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als [Funktion] mit einem Pensum von [Pensum] in unserer Praxis tätig. Wir freuen uns, [Name] mit diesem Zeugnis zu würdigen."
+  },
+  {
+    "id": "sekr-einleitung-gut",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als [Funktion] mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "sekr-einleitung-solide",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als [Funktion] mit einem Pensum von [Pensum] in unserer Praxis tätig."
+  },
+  {
+    "id": "sekr-einleitung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Einleitung",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als [Funktion] mit einem Pensum von [Pensum] in unserer Praxis beschäftigt."
+  },
+  {
+    "id": "sekr-aufgaben-sehrgut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 2,
+    "text": "[Name] verantwortete die gesamte Praxisadministration: Terminvergabe und -verwaltung, schriftliche und telefonische Korrespondenz, Empfang und Betreuung von Patient:innen, Abrechnung mit Krankenkassen (TarMed/Tarif 590), Verwaltung der Patientendossiers sowie Unterstützung des therapeutischen Teams in organisatorischen Belangen."
+  },
+  {
+    "id": "sekr-aufgaben-gut",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 2,
+    "text": "[Name] erledigte die administrativen Aufgaben der Praxis: Terminverwaltung, Korrespondenz, Empfang von Patient:innen, Krankenkassenabrechnung und Verwaltung der Patientendossiers."
+  },
+  {
+    "id": "sekr-aufgaben-solide",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 2,
+    "text": "[Name] erledigte die anfallenden administrativen Aufgaben der Praxis, darunter Terminverwaltung, Empfang und Krankenkassenabrechnung."
+  },
+  {
+    "id": "sekr-aufgaben-ausreichend",
+    "aktiv": true,
+    "kategorie": "Aufgabenbeschreibung",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 2,
+    "text": "[Name] erledigte die übertragenen administrativen Aufgaben im Rahmen der Praxisorganisation."
+  },
+  {
+    "id": "sekr-fachkompetenz-sehrgut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 3,
+    "text": "[Name] verfügte über sehr gute Kenntnisse im Praxismanagement, in der Krankenversicherungsabrechnung sowie in den eingesetzten Praxissoftwaresystemen und setzte diese jederzeit sicher, effizient und qualitätsbewusst ein."
+  },
+  {
+    "id": "sekr-fachkompetenz-gut",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 3,
+    "text": "[Name] verfügte über gute Kenntnisse im Praxismanagement und in der Krankenversicherungsabrechnung und setzte diese sicher und effizient ein."
+  },
+  {
+    "id": "sekr-fachkompetenz-solide",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 3,
+    "text": "[Name] verfügte über solide Kenntnisse in der Praxisadministration und setzte diese im Praxisalltag zweckmässig ein."
+  },
+  {
+    "id": "sekr-fachkompetenz-ausreichend",
+    "aktiv": true,
+    "kategorie": "Fachkompetenz",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 3,
+    "text": "[Name] verfügte über die erforderlichen administrativen Kenntnisse und setzte diese im Rahmen der übertragenen Aufgaben ein."
+  },
+  {
+    "id": "sekr-leistung-sehrgut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 4,
+    "text": "[Name] zeigte jederzeit eine sehr hohe Einsatzbereitschaft, arbeitete auch in hektischen Praxissituationen fokussiert und übersichtlich und übernahm gerne zusätzliche Verantwortung."
+  },
+  {
+    "id": "sekr-leistung-gut",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine hohe Einsatzbereitschaft, arbeitete engagiert und erledigte die übertragenen Aufgaben zuverlässig."
+  },
+  {
+    "id": "sekr-leistung-solide",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 4,
+    "text": "[Name] zeigte eine angemessene Einsatzbereitschaft und erledigte die übertragenen Aufgaben im vereinbarten Rahmen."
+  },
+  {
+    "id": "sekr-leistung-ausreichend",
+    "aktiv": true,
+    "kategorie": "Leistungsbereitschaft",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 4,
+    "text": "[Name] zeigte die notwendige Einsatzbereitschaft und erledigte die übertragenen Aufgaben entsprechend den Erwartungen."
+  },
+  {
+    "id": "sekr-qualitaet-sehrgut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war stets sehr sorgfältig, strukturiert und qualitativ überzeugend. Die Behandlungsergebnisse und Dokumentationen waren jederzeit sehr zuverlässig."
+  },
+  {
+    "id": "sekr-qualitaet-gut",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war sorgfältig, strukturiert und qualitativ gut. Die erledigten Aufgaben und Dokumentationen waren zuverlässig."
+  },
+  {
+    "id": "sekr-qualitaet-solide",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] war ordentlich und zweckmässig. Die Ergebnisse und Dokumentationen entsprachen den Anforderungen."
+  },
+  {
+    "id": "sekr-qualitaet-ausreichend",
+    "aktiv": true,
+    "kategorie": "Arbeitsqualität",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 5,
+    "text": "Die Arbeitsweise von [Name] entsprach insgesamt den grundlegenden Anforderungen der Funktion."
+  },
+  {
+    "id": "sekr-selbst-sehrgut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 6,
+    "text": "[Name] arbeitete jederzeit sehr selbstständig, vorausschauend und lösungsorientiert."
+  },
+  {
+    "id": "sekr-selbst-gut",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 6,
+    "text": "[Name] arbeitete selbstständig, zuverlässig und lösungsorientiert."
+  },
+  {
+    "id": "sekr-selbst-solide",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 6,
+    "text": "[Name] arbeitete weitgehend selbstständig und erledigte Aufgaben mit angemessener Sorgfalt."
+  },
+  {
+    "id": "sekr-selbst-ausreichend",
+    "aktiv": true,
+    "kategorie": "Selbstständigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 6,
+    "text": "[Name] erledigte die übertragenen Aufgaben nach entsprechender Anleitung und Rücksprache."
+  },
+  {
+    "id": "sekr-komm-sehrgut",
+    "aktiv": true,
+    "kategorie": "Kommunikation & Empfang",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 7,
+    "text": "[Name] empfing Patient:innen jederzeit herzlich, professionell und mit ausgeprägtem Einfühlungsvermögen. Die mündliche und schriftliche Kommunikation war stets klar, gepflegt und situationsgerecht."
+  },
+  {
+    "id": "sekr-komm-gut",
+    "aktiv": true,
+    "kategorie": "Kommunikation & Empfang",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 7,
+    "text": "[Name] empfing Patient:innen professionell und freundlich. Die mündliche und schriftliche Kommunikation war klar und gepflegt."
+  },
+  {
+    "id": "sekr-komm-solide",
+    "aktiv": true,
+    "kategorie": "Kommunikation & Empfang",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 7,
+    "text": "[Name] empfing Patient:innen freundlich und korrekt und kommunizierte angemessen."
+  },
+  {
+    "id": "sekr-komm-ausreichend",
+    "aktiv": true,
+    "kategorie": "Kommunikation & Empfang",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 7,
+    "text": "[Name] empfing Patient:innen korrekt und erledigte die Kommunikationsaufgaben entsprechend den Erwartungen."
+  },
+  {
+    "id": "sekr-team-sehrgut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Therapeut:innen und externen Stellen war jederzeit vorbildlich und von echter Kooperationsbereitschaft geprägt. [Name] war eine wichtige Stütze im Praxisteam."
+  },
+  {
+    "id": "sekr-team-gut",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war jederzeit einwandfrei und wertschätzend."
+  },
+  {
+    "id": "sekr-team-solide",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war korrekt und kollegial."
+  },
+  {
+    "id": "sekr-team-ausreichend",
+    "aktiv": true,
+    "kategorie": "Teamverhalten",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 8,
+    "text": "Das Verhalten gegenüber Vorgesetzten, Kolleg:innen und externen Fachpersonen war insgesamt korrekt."
+  },
+  {
+    "id": "sekr-zuverlaessig-sehrgut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 9,
+    "text": "[Name] war jederzeit äusserst zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "sekr-zuverlaessig-gut",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 9,
+    "text": "[Name] war zuverlässig, pünktlich und verantwortungsbewusst."
+  },
+  {
+    "id": "sekr-zuverlaessig-solide",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 9,
+    "text": "[Name] war grundsätzlich zuverlässig und erfüllte die vereinbarten Aufgaben."
+  },
+  {
+    "id": "sekr-zuverlaessig-ausreichend",
+    "aktiv": true,
+    "kategorie": "Zuverlässigkeit",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 9,
+    "text": "[Name] erfüllte die grundlegenden Anforderungen an Zuverlässigkeit und Verbindlichkeit."
+  },
+  {
+    "id": "sekr-schluss-sehrgut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Sehr gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die stets sehr wertvolle Unterstützung und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "sekr-schluss-gut",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Gut",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die gute Zusammenarbeit und wünschen für die berufliche und private Zukunft weiterhin viel Erfolg und alles Gute."
+  },
+  {
+    "id": "sekr-schluss-solide",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Solide",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die Zusammenarbeit und wünschen für die berufliche und private Zukunft alles Gute."
+  },
+  {
+    "id": "sekr-schluss-ausreichend",
+    "aktiv": true,
+    "kategorie": "Schlussformel",
+    "bewertung": "Ausreichend",
+    "funktion": "Praxissekretariat / MPA",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die geleistete Arbeit und wünschen für die Zukunft alles Gute."
+  },
+  {
+    "id": "alle-einleitung-zwischen",
+    "aktiv": true,
+    "kategorie": "Einleitung (Zwischenzeugnis)",
+    "bewertung": "n/a",
+    "funktion": "Alle Fachbereiche",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] ist seit dem [Eintrittsdatum] als [Funktion] mit einem Pensum von [Pensum] in unserer Praxis tätig. Auf eigenen Wunsch stellen wir dieses Zwischenzeugnis aus."
+  },
+  {
+    "id": "alle-einleitung-bestaetigung",
+    "aktiv": true,
+    "kategorie": "Einleitung (Arbeitsbestätigung)",
+    "bewertung": "n/a",
+    "funktion": "Alle Fachbereiche",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] war vom [Eintrittsdatum] bis zum [Austrittsdatum] als [Funktion] mit einem Pensum von [Pensum] in unserer Praxis tätig. Diese Arbeitsbestätigung wird ohne Beurteilung der Leistung und des Verhaltens ausgestellt."
+  },
+  {
+    "id": "alle-einleitung-praktikum",
+    "aktiv": true,
+    "kategorie": "Einleitung (Praktikum)",
+    "bewertung": "n/a",
+    "funktion": "Alle Fachbereiche",
+    "sortierung": 1,
+    "text": "[Anrede] [Name] absolvierte vom [Eintrittsdatum] bis zum [Austrittsdatum] ein Praktikum als [Funktion] in unserer Praxis."
+  },
+  {
+    "id": "alle-schluss-zwischen-sehrgut",
+    "aktiv": true,
+    "kategorie": "Schlussformel (Zwischenzeugnis)",
+    "bewertung": "Sehr gut",
+    "funktion": "Alle Fachbereiche",
+    "sortierung": 10,
+    "text": "Wir schätzen die bisherige Zusammenarbeit mit [Name] sehr und freuen uns auf die Fortsetzung des Arbeitsverhältnisses."
+  },
+  {
+    "id": "alle-schluss-zwischen-gut",
+    "aktiv": true,
+    "kategorie": "Schlussformel (Zwischenzeugnis)",
+    "bewertung": "Gut",
+    "funktion": "Alle Fachbereiche",
+    "sortierung": 10,
+    "text": "Wir schätzen die bisherige Zusammenarbeit mit [Name] und freuen uns auf die weitere Zusammenarbeit."
+  },
+  {
+    "id": "alle-schluss-praktikum-sehrgut",
+    "aktiv": true,
+    "kategorie": "Schlussformel (Praktikum)",
+    "bewertung": "Sehr gut",
+    "funktion": "Alle Fachbereiche",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für das grosse Engagement während des Praktikums und wünschen bei der weiteren Ausbildung und im Beruf viel Erfolg."
+  },
+  {
+    "id": "alle-schluss-praktikum-gut",
+    "aktiv": true,
+    "kategorie": "Schlussformel (Praktikum)",
+    "bewertung": "Gut",
+    "funktion": "Alle Fachbereiche",
+    "sortierung": 10,
+    "text": "Wir danken [Name] für die im Praktikum geleistete Arbeit und wünschen für die weitere Ausbildung alles Gute."
+  }
+]
