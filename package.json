@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "concurrently \"node server.js\" \"cd client && npx vite --port 5173\"",
-    "build": "cd client && npx vite build"
+    "build": "echo 'Using pre-built dist'",
+    "build:local": "cd client && npx vite build"
   },
   "dependencies": {
     "concurrently": "^8.2.0",
